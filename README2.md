@@ -126,3 +126,26 @@ Descreve a documentação necessária para suportar a implementação bem-sucedi
 
 Fornece atributos para os recursos do produto, incluindo status, benefício, esforço, risco, estabilidade, liberação de destino, equipe designada e motivo do recurso solicitado. Estes atributos são úteis para avaliação, controle, priorização e gerenciamento dos itens de produto propostos para implementação.
 
+5W2H - 
+
+**What:**
+- A Molldelivery é uma plataforma online que oferece serviços de entrega de roupas, calçados e acessórios de moda de lojas parceiras para clientes finais.
+
+**Why:**
+- A empresa foi criada para proporcionar conveniência aos clientes, permitindo que eles comprem roupas e calçados de suas lojas favoritas sem sair de casa, além de ajudar as lojas físicas a expandirem seu alcance e aumentarem suas vendas.
+
+**Who:**
+- A equipe da Molldelivery inclui desenvolvedores de software, gerentes de operações, entregadores e equipe de suporte ao cliente, todos trabalhando em conjunto para garantir uma experiência de entrega eficiente e satisfatória.
+
+**When:**
+- A Molldelivery foi lançada em [ano de lançamento] e tem operado continuamente desde então, ampliando sua rede de lojas parceiras e clientes ao longo do tempo.
+
+**Where:**
+- A empresa opera em diversas cidades e regiões, inicialmente focando em áreas urbanas com maior densidade populacional e potencial de mercado para moda e vestuário.
+
+**How:**
+- A Molldelivery utiliza uma plataforma online e um aplicativo móvel intuitivo, onde os clientes podem navegar pelos catálogos das lojas parceiras, fazer pedidos e acompanhar o status de suas entregas em tempo real. Os entregadores são equipados com aplicativos de roteamento para garantir uma entrega eficiente e pontual.
+
+**How much:**
+- Os custos de entrega variam com base na distância, no tamanho do pedido e na demanda, com taxas de entrega competitivas em comparação com outras empresas de entrega de produtos.
+
